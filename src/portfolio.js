@@ -181,8 +181,9 @@ const workExperiences = {
       date: "June 2022 – Present",
       desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
       descBullets: [
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit"
+        "Integrated Redux to manage and optimize the state of the application for complex data flows, such as ticket creation, status tracking, and user management Creating packer images on daily basis so that we can run all test suite on daily basis",
+        "Created complex forms, dashboards, and data visualization components to allow users to effectively report and track medical device incidents and adverse events"
+        
       ]
     },
     {
@@ -190,7 +191,12 @@ const workExperiences = {
       company: "HCL Technologies",
       companylogo: require("./assets/images/HCLTech.png"),
       date: "July 2019 – May 2022",
-      desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      desc: "Designed reusable components and ensured modular, scalable, and maintainable code structure to optimize the frontend codebase.",
+      descBullets: [
+        "Integrated Redux to manage and optimize the state of the application for complex data flows, such as ticket creation, status tracking, and user management Creating packer images on daily basis so that we can run all test suite on daily basis",
+        "Created complex forms, dashboards, and data visualization components to allow users to effectively report and track medical device incidents and adverse events"
+        
+      ]
     }
   ]
 };
