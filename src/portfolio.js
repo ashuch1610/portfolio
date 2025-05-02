@@ -40,7 +40,7 @@ const socialMediaLinks = {
   linkedin: "https://www.linkedin.com/in/ashwini-s-choudhari/",
   gmail: "ashu.choudhari1997@gmail.com",
   gitlab: "https://github.com/ashuch1610",
-  facebook: "https://www.facebook.com/saad.pasta7",
+  // facebook: "https://www.facebook.com/saad.pasta7",
   // medium: "https://medium.com/@saadpasta",
   // stackoverflow: "https://stackoverflow.com/users/10422806/saad-pasta",
   // Instagram, Twitter and Kaggle are also supported in the links!
@@ -210,28 +210,28 @@ const bigProjects = {
   subtitle: "SOME STARTUPS AND COMPANIES THAT I HELPED TO CREATE THEIR TECH",
   projects: [
     {
-      image: require("./assets/images/saayaHealthLogo.webp"),
-      projectName: "Saayahealth",
+      image: require("./assets/images/AmolIcecream.jpg"),
+      projectName: "Amol Ice-cream ",
       projectDesc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
       footerLink: [
         {
           name: "Visit Website",
-          url: "http://saayahealth.com/"
+          url: "https://amolicecream.netlify.app/"
         }
         //  you can add extra buttons here.
       ]
-    },
-    {
-      image: require("./assets/images/nextuLogo.webp"),
-      projectName: "Nextu",
+     },
+     {
+       image: require("./assets/images/BG system.jpg"),
+       projectName: "BG System Design",
       projectDesc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
-      footerLink: [
-        {
-          name: "Visit Website",
-          url: "http://nextu.se/"
-        }
+     footerLink: [
+       {
+      name: "Visit Website",
+         url: "https://bgdesignsystems.com/"
+       }
       ]
-    }
+   }
   ],
   display: true // Set false to hide this section, defaults to true
 };

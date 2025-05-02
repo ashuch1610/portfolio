@@ -56,11 +56,11 @@ function Header() {
               <a href="#opensource">Open Source</a>
             </li>
           )} */}
-          {viewAchievement && (
+          {/* {viewAchievement && (
             <li>
               <a href="#achievements">Achievements</a>
             </li>
-          )}
+          )} */}
           {viewBlog && (
             <li>
               <a href="#blogs">Blogs</a>
